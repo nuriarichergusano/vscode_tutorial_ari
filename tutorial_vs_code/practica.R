@@ -23,3 +23,4 @@ summary(df)
 
 # 6. Grafico para ver el panel de Plots
 plot(factor(df$mes, levels = df$mes), df$temperatura, main = "Temperatura por mes", ylab = "ºC")
+
